@@ -6,23 +6,28 @@
   
  ## Main Features
  
-  Get number of words,syllables and sentences from text file.
+  Get number of words,syllables and sentences from text file and calculate flesch index and show readability.
   
- ## How to run?
+ ## How to run Jar file ?
  
-  1.Run program normally.
-  
-  ![1](https://github.com/toey10112/PA4-Suchon/blob/master/Picture/1.png)
-  
-  2.Run in commandline.
-  
-  Go to your program directory, Then type this "java Readability -link your/file/path"
+ ![1](https://github.com/toey10112/PA4-Suchon/blob/master/Picture/1.png)
+
  
-  the -link is the command to execute the application and follow by your file path or URL.
+ ![1](https://github.com/toey10112/PA4-Suchon/blob/master/Picture/1.png)
+ 
+  1. Open command promt
+
+  2. Enter the command -> java -jar Readability.jar
+
+  3. For Java 11 you need to specify the module path for JavaFX.->> java --module-path /path/to/javafx11/lib/ --add-modules    javafx.controlss,javafx.fxml -jar  Readability.jar
+  
+
+  
+ 
   
   ## UML Diagram
   
-  ![2](https://github.com/toey10112/PA4-Suchon/blob/master/Picture/2.png)
+ ![2](https://github.com/toey10112/PA4-Suchon/blob/master/Picture/2.png)
   
  
  
