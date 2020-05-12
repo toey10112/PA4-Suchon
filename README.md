@@ -10,7 +10,6 @@
   
  ## How to run Jar file ?
  
- ![1](https://github.com/toey10112/PA4-Suchon/blob/master/Picture/1.png)
 
  
  ![1](https://github.com/toey10112/PA4-Suchon/blob/master/Picture/1.png)
